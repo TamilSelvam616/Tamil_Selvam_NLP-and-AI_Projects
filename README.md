@@ -1,4 +1,4 @@
-6.Parts Of Speech(POS)
+# Practical 6 - Parts Of Speech(POS)
 
 # Aim: 
 
