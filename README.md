@@ -1,5 +1,9 @@
 # Practical 9 – Sentiment Analysis
 
+# Aim
+
+To analyze the sentiment of reviews using TextBlob.
+
 # Procedure:
 
 Install TextBlob library.
