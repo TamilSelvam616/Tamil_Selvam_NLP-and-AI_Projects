@@ -22,6 +22,7 @@ Save trained model.
 # Result:
 Program executed successfully.
 
+# 
 # PRACTICAL – 11 (ii) Naive Bayes Classifier
 # Aim:
 
