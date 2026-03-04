@@ -1,5 +1,6 @@
 # Practical 14 – Basic Recommendation System (Content-Based)
-@ Aim:
+
+# Aim:
 
 To develop a simple content-based recommendation system using similarity of features.
 
